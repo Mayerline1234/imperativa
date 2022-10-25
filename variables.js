@@ -13,6 +13,3 @@ console.log(apellido);
 // console para que el desarrollador pueda ver que todo valla bien
 // palabra clave /nombre ( debe ser descriptiva) / el signo = (guardo es como una caja) / lo que quiero guardar
 
-let temperatura = 24
-console.log(temperatura)
-let EstaLloviendo = 
